@@ -1,0 +1,23 @@
+body{
+  background:pink;
+}
+strong{
+  color: red;
+}
+h1{
+  color: red;
+  text-aling:center;
+}
+img{
+  display:block;
+  width: 100%
+    height: auto;
+  max-width; 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer{
+  text-aling: center;
+  strong{
+    color; purple;
+}
